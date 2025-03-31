@@ -1,16 +1,19 @@
-## Hi there 👋
+#### Welcome to my Frontend Developer Page 🚀
 
-<!--
-**sk1F25/sk1F25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const sk1F25 = {
+  fullName: "Grigoriy Mishuta",
+  age: 26,
+  location: "Moscow, Russia",
 
-Here are some ideas to get you started:
+  contacts: {
+    email: "skif@flowerzzz.ru",
+    telegram: "@sk1F25",
+    instagram: "@s.fl0wers",
+  },
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  stack: ["Typescript", "React", "NodeJS", "NestJS", "Supabase"],
+};
+
+hire(sk1F25);
+```
