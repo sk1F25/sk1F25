@@ -1,4 +1,4 @@
-#### Welcome to my Frontend Developer Page 🚀
+
 
 ```javascript
 const sk1F25 = {
