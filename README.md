@@ -12,7 +12,7 @@ const sk1F25 = {
     instagram: "@s.fl0wers",
   },
 
-  stack: ["Typescript", "React", "NodeJS", "NestJS", "Supabase"],
+  stack: ["Typescript", "React", "Next.js", "NodeJS", "NestJS"],
 };
 
 hire(sk1F25);
